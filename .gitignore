@@ -1,1 +1,13 @@
-data/*.db
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# SQLite database
+*.db
